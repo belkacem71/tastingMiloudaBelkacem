@@ -1,0 +1,4 @@
+[tool.aerich]
+tortoise_orm = "aerich_confing.ORM_MIGRATION_SQL"
+location = "./migrations"
+src_folder = "./."
